@@ -10,3 +10,6 @@ for k in range(2, int(sqrt(num)) + 1 ):
 
 else:
     print(num, "is a prime number")
+
+
+ 
